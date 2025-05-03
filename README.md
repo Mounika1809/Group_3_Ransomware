@@ -16,7 +16,7 @@ The ransomware attack is simulated using a malicious PDF exploit. The project fo
 To run this project, follow the steps below to set up the environment:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ransomware-simulation.git
+   git clone https://github.com/Mounika1809/Group_3_Ransomware
    ```
 2. Install the required libraries:
    ```bash
