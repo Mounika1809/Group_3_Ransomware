@@ -60,7 +60,7 @@ def simulate_ransomware(file_path):
 
 # Function to send email alert (to system administrator)
 def send_email_alert():
-    sender_email = "kevohngatiah27@gmail.com"
+    sender_email = "cscsproject200@gmail.com"
     receiver_email = "admin@example.com"  # Change to the actual recipient
     password = "your_email_password"  # Use an app password or a secure way to store it
 
